@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,git,github,wordpress,html,css,js,figma,photoshop,illustrator,framer,canva&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,git,github,wordpress,html,css,js,figma,photoshop,illustrator,framer,canva" />
 </p>
 
 ---
@@ -45,10 +45,4 @@
 ### ✨ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maahijeen&label=Profile+Views&color=1E90FF&style=flat-square" alt="profile views"/>
 </p>
